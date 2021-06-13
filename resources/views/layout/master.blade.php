@@ -8,7 +8,7 @@
     <title>@yield('title','เว็บไซต์ของฉัน')</title>
 </head>
 <body>
-    <a href="/">Home</a>| <a href="/about">About</a>|<a href="/contact">Contact</a>|<a href="/calculator/sum/5/5">Calculator</a>
+    <a href="/">Home</a>| <a href="/about">About</a>|<a href="/contact">Contact</a>|<a href="/calculator/sum/5/5">Calculator</a>|<a href="/กิจกรรม">กิจกรรม</a>
     <hr>
     @yield('content')
     สงวนสิทธิ์ 2021 | Sirawud
